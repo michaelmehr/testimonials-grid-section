@@ -190,13 +190,11 @@ body {
   opacity: 70%;
 }
 
-
 /* 
   Desktop
 */
 
 @media (min-width: 600px) {
-
   .app {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
@@ -234,5 +232,4 @@ body {
     grid-row-start: 1;
     grid-row-end: span 2;
   }
-
 }
